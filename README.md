@@ -3,6 +3,7 @@
 ## 2023
 - https://github.com/MovingBlocks/Terasology/pull/5156
 - https://github.com/MovingBlocks/TerasologyLauncher/pull/703
+- https://github.com/MovingBlocks/TerasologyLauncher/pull/704
 
 ## 2022
 
