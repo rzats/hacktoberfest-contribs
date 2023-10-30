@@ -1,5 +1,8 @@
 # hacktoberfest-contribs
 
+## 2023
+- https://github.com/MovingBlocks/Terasology/pull/5156
+
 ## 2022
 
 - https://github.com/cmu-delphi/delphi-epidata/pull/988
