@@ -3,6 +3,7 @@
 ## 2025
 - https://github.com/Avaiga/taipy/pull/2749
 - https://github.com/Avaiga/taipy/pull/2750
+- https://github.com/Avaiga/taipy/pull/2751
 
 ## 2023
 - https://github.com/MovingBlocks/Terasology/pull/5156
