@@ -1,12 +1,15 @@
 # hacktoberfest-contribs
 
+## 2025
+- https://github.com/Avaiga/taipy/pull/2749
+
 ## 2023
 - https://github.com/MovingBlocks/Terasology/pull/5156
 - https://github.com/MovingBlocks/TerasologyLauncher/pull/703
 - https://github.com/MovingBlocks/TerasologyLauncher/pull/704
 - https://github.com/benfry/processing4/pull/798
 - https://github.com/MovingBlocks/Terasology/pull/5158
-- 
+
 ## 2022
 
 - https://github.com/cmu-delphi/delphi-epidata/pull/988
