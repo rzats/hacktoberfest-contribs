@@ -5,6 +5,7 @@
 - https://github.com/Avaiga/taipy/pull/2750
 - https://github.com/Avaiga/taipy/pull/2751
 - https://github.com/Avaiga/taipy/pull/2752
+- https://github.com/Avaiga/taipy/pull/2753
 
 ## 2023
 - https://github.com/MovingBlocks/Terasology/pull/5156
