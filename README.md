@@ -7,6 +7,7 @@
 - https://github.com/Avaiga/taipy/pull/2752
 - https://github.com/Avaiga/taipy/pull/2753
 - https://github.com/Avaiga/taipy/pull/2754
+- https://github.com/cloudinary-community/astro-cloudinary/pull/138
 
 ## 2023
 - https://github.com/MovingBlocks/Terasology/pull/5156
